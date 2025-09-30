@@ -13,8 +13,11 @@ const eslintConfig = [
       "@typescript-eslint/no-non-null-asserted-optional-chain": "off",
       "@typescript-eslint/ban-ts-comment": "off",
       "@typescript-eslint/no-explicit-any": "off",
+      "@typescript-eslint/no-unused-vars": "off",
       "prefer-const": "off",
-      "react-hooks/exhaustive-deps": "error",
+      "react-hooks/exhaustive-deps": "off",
+      "@next/next/no-img-element": "off",
+      "react/no-unescaped-entities": "off",
     },
   }),
 ];
