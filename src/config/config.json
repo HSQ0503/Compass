@@ -1,0 +1,50 @@
+{
+  "site": {
+    "title": "Compass - Student 2 Student Mentorship",
+    "base_url": "https://nextspace-nextjs.vercel.app",
+    "base_path": "/",
+    "trailing_slash": false,
+    "favicon": "/images/favicon.png",
+    "logo": "/images/logo.svg",
+    "logo_footer": "/images/logo.svg",
+    "logo_width": "200",
+    "logo_height": "40",
+    "logo_text": "NextSpace"
+  },
+
+  "settings": {
+    "pagination": 6
+  },
+
+  "params": {
+    "contact_form_action": "#",
+    "address": "123 Main Street, New York, NY 10001",
+    "phone": "123-456-7890",
+    "email": "info@compass.com",
+    "footer_title": "Ready To Get Student 2 Student Mentorship?",
+    "footer_content": "With Compass, no student has to walk alone."
+  },
+
+  "navigation_button": {
+    "enable": true,
+    "label": "Request Mentorship",
+    "link": "/contact"
+  },
+
+  "footer_button": {
+    "enable": true,
+    "label": "Get Started",
+    "link": "/contact"
+  },
+
+  "google_tag_manager": {
+    "enable": false,
+    "gtm_id": "GTM-XXXXXX"
+  },
+
+  "metadata": {
+    "meta_author": "Themefisher",
+    "meta_image": "/images/og-image.png",
+    "meta_description": "Compass - Student 2 Student Mentorship"
+  }
+}

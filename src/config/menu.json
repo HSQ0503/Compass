@@ -1,0 +1,57 @@
+{
+  "main": [
+  
+    {
+      "name": "Home",
+      "url": "/"
+    },
+    {
+      "name": "Process",
+      "url": "/#how-it-works"
+    },
+    {
+      "name": "Contact",
+      "url": "/contact"
+    }
+  ],
+  "footer": [
+    {
+      "title": "Quick Links",
+      "children": [
+        {
+          "name": "Projects",
+          "url": "/projects"
+        },
+        {
+          "name": "About Us",
+          "url": "/about"
+        },
+        {
+          "name": "Contact",
+          "url": "/contact"
+        },
+        {
+          "name": "Career",
+          "url": "/career"
+        }
+      ]
+    },
+    {
+      "title": "Legal & Policy Links",
+      "children": [
+        {
+          "name": "Privacy Policy",
+          "url": "/privacy-policy"
+        },
+        {
+          "name": "Terms of Service",
+          "url": "/terms-and-conditions"
+        },
+        {
+          "name": "Contact Us",
+          "url": "/contact"
+        }
+      ]
+    }
+  ]
+}
