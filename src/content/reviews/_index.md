@@ -2,23 +2,23 @@
 title: "How It Works"
 subtitle: "OUR PROCESS"
 meta_title: "How It Works"
-description: "Student to Counselor to Coordinator - A simple, effective mentorship process."
+description: "A structured, supportive mentorship process connecting students through meaningful peer relationships."
 image: "/images/contact.png"
 
 process_steps:
   - step_number: 1
-    title: "Mentor Assignment"
-    description: "I assign 5 academically and community involved mentors tailored to your needs and goals."
+    title: "Connect"
+    description: "Students interested in becoming mentors or mentees can sign up through Compass's official forms. Each application is carefully reviewed, and only accepted students are invited to join the program. Once approved, participants must sign a Compass agreement form confirming their understanding of all requirements, expectations, and confidentiality standards before officially joining."
 
   - step_number: 2
-    title: "First Meeting"
-    description: "Initial 30-minute max meeting to get to know your mentor team and establish your goals."
+    title: "Match"
+    description: "Our Mentor Coordinator and counselors collaborate to create ideal matches, ensuring mentees receive the right guidance from mentors who understand their journey."
 
   - step_number: 3
-    title: "Check-Up & Support"
-    description: "After 1-2 weeks, choose your support frequency: weekly, biweekly, or monthly check-ins with your mentors."
+    title: "Meet"
+    description: "Mentors meet with their mentees every 2–3 weeks in structured sessions during designated school times. These meetings focus on academic support, goal-setting, and personal growth."
 
   - step_number: 4
-    title: "1.5-Month Reflection"
-    description: "Share your story (optional) to inspire others and reflect on your growth journey with Compass."
+    title: "Reflect & Grow"
+    description: "After each cycle, mentors reflect on their progress, share feedback with the Compass board, and continue developing leadership skills through mentor training sessions and check-ins."
 ---

@@ -8,9 +8,17 @@ interface Props {
   post: BlogPost;
   index: number;
   className?: string;
+  customLink?: string;
+  customLabel?: string;
 }
 
-export default function BlogCard({ post, index, className }: Props) {
+export default function BlogCard({
+  post,
+  index,
+  className,
+  customLink,
+  customLabel,
+}: Props) {
   const { title, image, date, description } = post.frontmatter;
   return (
     <div
@@ -28,12 +36,12 @@ export default function BlogCard({ post, index, className }: Props) {
         />
       </div>
       <p className="px-3 py-1 bg-primary/10 text-primary font-medium rounded-full text-sm w-fit mt-8 mb-7">
-        {dateFormat(date!)}
+        {customLabel || dateFormat(date!)}
       </p>
 
       <Link
         className="before:absolute before:inset-0"
-        href={`/blog/${post.slug}`}
+        href={customLink || `/blog/${post.slug}`}
       >
         <h2
           className="h5 mb-6"

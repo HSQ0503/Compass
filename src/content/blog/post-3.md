@@ -1,9 +1,9 @@
 ---
-title: "Unveiling Interior Design Secrets"
+title: "Gustavo Camposs"
 meta_title: ""
-description: "From minimalist chic to bohemian flair, we'll delve into a myriad of design styles"
+description: "SGA Executive Board President, CEO of BizBuild, and Co-Founder and President of the Brazilian Culture Society (BCS)."
 date: 2025-05-04T05:00:00Z
-image: "/images/blog/3.png"
+image: "/images/about/5.png"
 categories: ["Home"]
 featured: true
 draft: false

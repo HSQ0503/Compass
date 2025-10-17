@@ -1,9 +1,9 @@
 ---
-title: "Exploring the World of Interior Inspiration"
+title: "Aarna Verma"
 meta_title: ""
-description: "From minimalist chic to bohemian flair, we'll delve into a myriad of design styles"
+description: "Accomplished student leader, 4.6 weighted GPA while serving as SGA President from 8th through 10th grade."
 date: 2025-05-04T05:00:00Z
-image: "/images/blog/1.png"
+image: "/images/about/7.png"
 categories: ["Home"]
 featured: true
 draft: false

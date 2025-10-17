@@ -1,13 +1,16 @@
 {
   "main": [
-  
     {
       "name": "Home",
       "url": "/"
     },
     {
-      "name": "Process",
-      "url": "/#how-it-works"
+      "name": "About",
+      "url": "/about"
+    },
+    {
+      "name": "Mentors",
+      "url": "/mentors"
     },
     {
       "name": "Contact",
@@ -19,8 +22,8 @@
       "title": "Quick Links",
       "children": [
         {
-          "name": "Projects",
-          "url": "/projects"
+          "name": "Mentors",
+          "url": "/mentors"
         },
         {
           "name": "About Us",
@@ -29,10 +32,6 @@
         {
           "name": "Contact",
           "url": "/contact"
-        },
-        {
-          "name": "Career",
-          "url": "/career"
         }
       ]
     },

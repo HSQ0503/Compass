@@ -1,9 +1,9 @@
 ---
-title: "The Journey to Beautiful Interiors"
+title: "Kaden Puranick"
 meta_title: ""
-description: "From minimalist chic to bohemian flair, we'll delve into a myriad of design styles"
+description: "Elite high school golfer with over 15 Division I offers, earning recognition as one of the top recruits in the country."
 date: 2025-05-04T05:00:00Z
-image: "/images/blog/2.png"
+image: "/images/about/3.png"
 categories: ["Home"]
 featured: true
 draft: false

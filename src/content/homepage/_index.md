@@ -2,45 +2,36 @@
 # Banner
 banner:
   title: "Student 2 Student Mentorship"
-  content: "Guiding students through shared experiences. With Compass, no student has to walk alone."
+  content: "With Compass, no student has to walk their journey alone."
   image: ""
-  spinning_text: "• WITH COMPASS - NO STUDENT WALKS ALONE"
+  spinning_text: "• WITH COMPASS - NO STUDENT HAS TO WALK THEIR JOURNEY ALONE"
   button:
     enable: true
     label: "Request A Mentor"
-    link: "/contact"
+    link: "/mentor"
 
 # Gallery
 gallery:
   enable: true
-  title: Skills We Help You Develop
+  title: Compass's 5 Core Values
   subtitle: CORE VALUES
-  description: With Compass, no student has to walk their journey alone. We help you build essential skills for academic and personal success.
+  description: Our core values guide everything we do, ensuring meaningful connections and transformative mentorship experiences for every student.
   skills:
-    - name: "Time Management"
-      icon: "⏰"
-      description: "Master the art of balancing academics, extracurriculars, and personal time effectively."
-    - name: "Goal Setting"
+    - name: "Integrity"
       icon: "🎯"
-      description: "Learn to set achievable goals and create actionable plans to reach your full potential."
-    - name: "Communication"
-      icon: "💬"
-      description: "Develop strong verbal and written communication skills for academic and professional success."
+      description: "We stay true to our mission and act with honesty in everything we do."
     - name: "Leadership"
       icon: "🌟"
-      description: "Build confidence and learn to lead with purpose, inspiring others along the way."
-    - name: "Problem Solving"
-      icon: "🧩"
-      description: "Enhance critical thinking skills to tackle challenges with creative solutions."
-    - name: "Collaboration"
+      description: "We develop leaders who inspire and guide others through example."
+    - name: "Community"
       icon: "🤝"
-      description: "Work effectively in teams and build meaningful connections with peers and mentors."
-    - name: "Self-Advocacy"
-      icon: "📢"
-      description: "Speak up for your needs and navigate academic and personal challenges confidently."
-    - name: "Resilience"
-      icon: "💪"
-      description: "Build mental strength to overcome obstacles and bounce back from setbacks."
+      description: "We foster strong connections that build trust and belonging."
+    - name: "Empathy"
+      icon: "💙"
+      description: "We listen, understand, and support each student's unique journey."
+    - name: "Growth"
+      icon: "🌱"
+      description: "We believe in continuous learning and personal development for both mentors and mentees."
 
 # Fun Facts
 fun_facts:

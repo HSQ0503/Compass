@@ -243,3 +243,13 @@ export interface CTASection {
   button_solid: Button;
   button_outline: Button;
 }
+
+export interface Mentor extends Page {
+  frontmatter: Page["frontmatter"] & {
+    name: string;
+    grade: string;
+    focus_area: string;
+    bio: string;
+    highlights?: string[];
+  };
+}

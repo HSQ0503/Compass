@@ -1,21 +1,19 @@
 ---
 title: "Our Story"
 meta_title: "About"
-description: "At NextSpace, we are passionate about creating exceptional interior and designs that elevate lifestyles and enrich experiences."
+description: "Our Mission is to guide middle, high, and lower school students by connecting them with dedicated peers who share advice, recommendations, and personal insights gained from their own academic journeys and experiences."
 image: "/images/about/1.png"
 images_gallery:
   - "/images/about/1.png"
-  - "/images/about/2.png"
   - "/images/about/3.png"
-  - "/images/about/4.png"
   - "/images/about/5.png"
   - "/images/about/6.png"
 
 blog_section:
   enable: true
-  title: "What We Offer"
-  subtitle: "The Challenge"
-  description: "We specialize in transforming visions into reality. Explore our portfolio of innovative architectural and interior design projects crafted with precision."
+  title: "Our Story"
+  subtitle: "The Compass Story"
+  description: "Compass was founded to create a bridge between students of all grade levels — a space where guidance, mentorship, and connection help every student navigate their academic and personal journey with confidence. What began as a small idea to make the school community more supportive has grown into a structured mentorship program led by dedicated student mentors who strive to make a real impact."
   show_blog_count: 3
   # All blog are in the `src\content\blog`
 
