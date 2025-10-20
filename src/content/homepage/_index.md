@@ -87,9 +87,11 @@ services:
     - icon: "🧭"
       text: "Having an experienced peer mentor transforms uncertainty into confidence. Our mentors reduce stress, share proven strategies, and equip you with the skills to thrive in the upcoming school year."
   skills:
-    - "Time Management"
-    - "Leadership"
-    - "Balancing Academics & Extracurriculars"
+    - "Leadership & Confidence"
+    - "Time Management & Organization"
+    - "Academic Growth & Study Habits"
+    - "Balance & Wellbeing"
+    - "Communication & Collaboration"
 
 # Services Facts Section
 services_facts:

@@ -105,7 +105,7 @@ export default function AboutPage() {
               <p
                 data-aos="fade-up-sm"
                 data-aos-delay="300"
-                className="lg:col-8 h4 text-primary md:indent-20 text-center lg:text-left"
+                className="lg:col-8 text-lg text-primary md:indent-20 text-center lg:text-left leading-relaxed"
                 dangerouslySetInnerHTML={markdownify(
                   blog_section.description || ""
                 )}

@@ -8,10 +8,10 @@ const HeroBanner = ({
   banner: Homepage["frontmatter"]["banner"];
 }) => {
   // Use solid background color if no image is provided
-  const bgClass = banner.image 
-    ? `bg-[url(${banner.image})] bg-cover bg-center` 
-    : 'bg-gradient-to-br from-[#1e3a4f] via-[#1a3947] to-[#16323e]';
-  
+  const bgClass = banner.image
+    ? `bg-[url(${banner.image})] bg-cover bg-center`
+    : "bg-gradient-to-br from-[#1e3a4f] via-[#1a3947] to-[#16323e]";
+
   return (
     <section
       className={`section relative ${bgClass} md:h-[calc(65svh)] lg:h-[calc(100svh_-_28px)]`}
@@ -30,13 +30,13 @@ const HeroBanner = ({
               <span
                 data-aos="fade-up-sm"
                 data-aos-delay="150"
-                className="absolute top-[0.55em] -right-[0.7em] translate-y-[-25%] translate-x-[5%] w-[300px] h-[300px] lg:w-[350px] lg:h-[350px]"
+                className="absolute top-[0.55em] -right-[0.7em] translate-y-[-25%] translate-x-[25%] w-[300px] h-[300px] lg:w-[350px] lg:h-[350px]"
               >
                 {/* Logo in the center (non-rotating) */}
                 <div className="absolute inset-0 flex items-center justify-center z-10">
-                  <img 
-                    src="/images/logoo.png" 
-                    alt="Logo" 
+                  <img
+                    src="/images/logoo.png"
+                    alt="Logo"
                     className="w-[120px] h-[120px] lg:w-[140px] lg:h-[140px] object-contain rounded-full"
                   />
                 </div>

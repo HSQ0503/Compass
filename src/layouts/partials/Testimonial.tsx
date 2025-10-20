@@ -27,7 +27,7 @@ const Testimonial = ({
       loop: true,
       centeredSlides: true,
       autoplay: {
-        delay: 4000,
+        delay: 12000,
         disableOnInteraction: false,
       },
       allowTouchMove: false,

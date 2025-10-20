@@ -13,7 +13,7 @@ blog_section:
   enable: true
   title: "Our Story"
   subtitle: "The Compass Story"
-  description: "Compass was founded to create a bridge between students of all grade levels — a space where guidance, mentorship, and connection help every student navigate their academic and personal journey with confidence. What began as a small idea to make the school community more supportive has grown into a structured mentorship program led by dedicated student mentors who strive to make a real impact."
+  description: "Compass was founded by Gustavo Marques Alberici, a high school student who wanted to create a space where students could support and learn from one another. What began as his small idea to make the school community more connected and encouraging has grown into a structured mentorship program built on empathy, leadership, and genuine care. From its start, Compass has aimed to bridge students across grade levels — creating opportunities for mentorship, guidance, and real connection. Today, Gustavo and the Compass team continue to grow that mission, uniting passionate mentors who strive to make a lasting impact in every student's journey."
   show_blog_count: 3
   # All blog are in the `src\content\blog`
 

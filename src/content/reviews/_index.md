@@ -16,9 +16,9 @@ process_steps:
 
   - step_number: 3
     title: "Meet"
-    description: "Mentors meet with their mentees every 2–3 weeks in structured sessions during designated school times. These meetings focus on academic support, goal-setting, and personal growth."
+    description: "Mentors meet with their mentees at least once a month in structured sessions during designated school times. These meetings focus on academic support, goal-setting, and personal growth."
 
   - step_number: 4
     title: "Reflect & Grow"
-    description: "After each cycle, mentors reflect on their progress, share feedback with the Compass board, and continue developing leadership skills through mentor training sessions and check-ins."
+    description: "After each mentorship cycle, mentors reflect on their sessions, share feedback with school counselors, and discuss ways to improve future meetings. These reflections help mentors strengthen their leadership, communication, and organization skills while continuing to grow through ongoing check-ins and collaboration."
 ---

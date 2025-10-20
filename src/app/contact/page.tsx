@@ -10,7 +10,7 @@ const ContactPage = () => {
   const { title, description, meta_title, image, address_section } =
     contact.frontmatter;
 
-  const compassEmail = "info@compass.com";
+  const compassEmail = "gustavo@compassmentor.org";
 
   return (
     <>
@@ -101,11 +101,9 @@ const ContactPage = () => {
                 >
                   <div className="text-4xl mb-4">📝</div>
                   <h4 className="font-semibold text-primary mb-2">
-                    Your Information
+                    Information
                   </h4>
-                  <p className="text-sm text-dark/70">
-                    Name, grade level, and school
-                  </p>
+                  <p className="text-sm text-dark/70">Name & Grade Level</p>
                 </div>
                 <div
                   data-aos="fade-up-sm"
@@ -126,9 +124,7 @@ const ContactPage = () => {
                   className="bg-white rounded-2xl p-6 shadow-lg border border-gray-100"
                 >
                   <div className="text-4xl mb-4">💬</div>
-                  <h4 className="font-semibold text-primary mb-2">
-                    Questions
-                  </h4>
+                  <h4 className="font-semibold text-primary mb-2">Questions</h4>
                   <p className="text-sm text-dark/70">
                     Any questions about the program
                   </p>
