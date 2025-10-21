@@ -4,7 +4,7 @@ banner:
   title: "Student 2 Student Mentorship"
   content: "With Compass, no student has to walk their journey alone."
   image: ""
-  spinning_text: "• WITH COMPASS - NO STUDENT HAS TO WALK THEIR JOURNEY ALONE"
+  spinning_text: "COMPASS - STUDENT 2 STUDENT MENTORSHIP"
   button:
     enable: true
     label: "Request A Mentor"
