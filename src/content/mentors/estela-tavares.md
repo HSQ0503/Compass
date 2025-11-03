@@ -4,7 +4,7 @@ name: "Estela Tavares"
 grade: "11th Grade"
 focus_area: "Leadership, Time Management, Health & Wellness"
 image: "/images/about/8.png"
-bio: "Estela Tavares is an energetic and caring individual who values spending time with friends, family, and creating meaningful memories. Passionate about the medical field, she hopes to pursue a career in medicine and make a positive difference in people's lives. Estela is active and goal-driven, always giving her best in everything she does—whether it's on the soccer field or in her community. Her kindness, determination, and dedication to helping others make her a natural role model and a source of positivity for those around her."
+bio: "My name is Estela Tavares, and I’m an energetic and caring person who loves spending time with friends, family, and creating meaningful memories. I’m passionate about the medical field and hope to pursue a career in medicine where I can make a positive difference in people’s lives. I always give my best in everything I do, whether it’s on the soccer field or in my community, and I take pride in staying active and driven. I strive to lead with kindness, determination, and dedication, and I hope to be a positive influence on the people around me."
 highlights:
   - "SGA Executive Board Vice President"
   - "SHE Club Co-Founder"

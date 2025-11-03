@@ -4,7 +4,7 @@ name: "Maria Alberici"
 grade: "11th Grade"
 focus_area: "Leadership, Empathy, Community"
 image: "/images/about/9.png"
-bio: "Maria Alberici is an outgoing and extroverted individual who thrives in social environments and enjoys building meaningful connections with others. Her positive energy and approachable personality make her a natural leader and collaborator. She is helpful and caring, always going out of her way to support her peers and create a welcoming atmosphere wherever she is. Her ability to balance friendliness with responsibility reflects a strong sense of empathy and dedication, allowing her to make a genuine impact on the people and communities around her."
+bio: "My name is Maria Marques Alberici, and I’m an outgoing and extroverted person who thrives in social environments and loves building meaningful connections with others. I’m always willing to help and support those around me, creating a space where everyone feels welcome and valued. I believe in balancing friendliness with responsibility, and I take pride in making a genuine impact on the people and communities I’m part of."
 highlights:
   - "SGA Executive Board Marketing Director"
   - "National Charity League (NCL)"

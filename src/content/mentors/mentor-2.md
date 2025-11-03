@@ -4,7 +4,7 @@ name: "Gustavo Campos"
 grade: "11th Grade"
 focus_area: "Entrepreneurship, Leadership, Public Speaking"
 image: "/images/about/5.png"
-bio: "Gustavo Campos is a dynamic student leader and IB Diploma candidate recognized for his achievements in academics, entrepreneurship, and service. He currently serves as SGA Executive Board President, CEO of BizBuild, and Co-Founder and President of the Brazilian Culture Society (BCS), while also being a self-published author and active member of the National Honor Society. Known for his leadership, initiative, and ability to connect with others, Gustavo exemplifies strong social confidence, public speaking, and relationship-building skills that allow him to inspire and lead both in and out of the classroom."
+bio: "My name is Gustavo Campos , mostly known as Guga, I am a  student entrepreneur who somehow manages to turn every random idea into a real project. I’ve built businesses, nonprofits, and probably already grown a few gray hairs along the way. I like chasing big dreams, solving problems that don’t have real easy answers, and making people laugh while doing it. I believe in ambition with a sense of humor, because if you’re not having fun, what’s the point."
 highlights:
   - "SGA Executive Board President"
   - "CEO of BizBuild"

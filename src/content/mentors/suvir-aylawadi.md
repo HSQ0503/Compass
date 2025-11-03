@@ -1,0 +1,26 @@
+---
+title: "Suvir Aylawadi"
+name: "Suvir Aylawadi"
+grade: "High School"
+focus_area: "Leadership, Innovation, Science"
+image: "/images/about/11.png"
+bio: "My name is Suvir Aylawadi, and I'm a curious and reflective thinker who finds meaning in understanding how the world works, from the smallest scientific details to the biggest human questions. I approach learning not as a task, but as an opportunity to connect ideas, challenge assumptions, and explore new possibilities. I'm deeply interested in science and discovery, and I enjoy experimenting, building, and analyzing problems from multiple perspectives, always balancing logic with creativity. While I'm naturally introspective, I truly value collaboration and the chance to work with others who share the same curiosity and drive. Guided by purpose and a passion for understanding, I hope to make a lasting impact through innovation and knowledge that helps others."
+highlights:
+  - "Founder and CEO of Chess For Change Academy"
+  - "Chess Club - Club Officer and Co. President"
+  - "HOSA Club"
+  - "UNICEF Club"
+  - "Steam Impact Club"
+  - "Robotics Club"
+  - "Global MIT Ambassador for Nord Anglia"
+  - "Current Events Club Debater"
+  - "Top 100 Nationally for Future Wavemakers Environmental Competition"
+  - "1000GM and Alton Chess Academy Tournament Winner (2 time winner)"
+  - "Chess Supernationals participant and qualifier"
+  - "Global public speaker for the NAE UNICEF G100 Summit"
+  - "Speech and Debate Bob Dolan Award Winner"
+  - "Conducting Medical Researches using Chess"
+  - "National Honor Society Member"
+  - "5.0 W GPA in in John Hopkins Neuroscience and Human Behavior Course"
+draft: false
+---
