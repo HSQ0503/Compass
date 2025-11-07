@@ -1,7 +1,7 @@
 ---
 title: "Suvir Aylawadi"
 name: "Suvir Aylawadi"
-grade: "High School"
+grade: "10th grade"
 focus_area: "Leadership, Innovation, Science"
 image: "/images/about/11.png"
 bio: "My name is Suvir Aylawadi, and I'm a curious and reflective thinker who finds meaning in understanding how the world works, from the smallest scientific details to the biggest human questions. I approach learning not as a task, but as an opportunity to connect ideas, challenge assumptions, and explore new possibilities. I'm deeply interested in science and discovery, and I enjoy experimenting, building, and analyzing problems from multiple perspectives, always balancing logic with creativity. While I'm naturally introspective, I truly value collaboration and the chance to work with others who share the same curiosity and drive. Guided by purpose and a passion for understanding, I hope to make a lasting impact through innovation and knowledge that helps others."

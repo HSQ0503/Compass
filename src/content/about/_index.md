@@ -6,7 +6,7 @@ image: "/images/about/1.png"
 images_gallery:
   - "/images/about/1.png"
   - "/images/about/2.png"
-  - "/images/about/5.png"
+  - "/images/about/21.png"
   - "/images/about/6.png"
 
 blog_section:
