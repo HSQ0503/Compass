@@ -1,16 +1,14 @@
-import BlogCard from "@/components/BlogCard";
 import ImageFallback from "@/helpers/ImageFallback";
-import { getListPage, getSinglePage } from "@/lib/contentParser";
+import { getListPage } from "@/lib/contentParser";
 import { markdownify } from "@/lib/utils/textConverter";
 import CallToAction from "@/partials/CallToAction";
 import FAQs from "@/partials/FAQs";
 import PageHeader from "@/partials/PageHeader";
 import SeoMeta from "@/partials/SeoMeta";
-import type { AboutPage, BlogPost, Faqs } from "@/types";
+import type { AboutPage, Faqs } from "@/types";
 
 export default function AboutPage() {
   const about = getListPage<AboutPage["frontmatter"]>("about/_index.md");
-  const posts = getSinglePage<BlogPost["frontmatter"]>("blog");
   const faqsData = getListPage<Faqs["frontmatter"]>("faqs/_index.md");
 
   const {
@@ -83,48 +81,55 @@ export default function AboutPage() {
       {blog_section.enable && (
         <section className="section pt-0">
           <div className="container">
-            <div className="row g-5 justify-between items-start max-lg:text-center">
-              <div className="lg:col-3">
-                <p
-                  data-aos="fade-up-sm"
-                  data-aos-delay="150"
-                  className="font-medium text-primary uppercase"
-                  dangerouslySetInnerHTML={markdownify(
-                    blog_section.subtitle || ""
-                  )}
-                />
-                <h2
-                  data-aos="fade-up-sm"
-                  data-aos-delay="200"
-                  className="mt-3 font-medium text-primary"
-                  dangerouslySetInnerHTML={markdownify(
-                    blog_section.title || ""
-                  )}
+            <div className="max-lg:text-center mb-8">
+              <p
+                data-aos="fade-up-sm"
+                data-aos-delay="150"
+                className="font-medium text-primary uppercase"
+                dangerouslySetInnerHTML={markdownify(
+                  blog_section.subtitle || ""
+                )}
+              />
+              <h2
+                data-aos="fade-up-sm"
+                data-aos-delay="200"
+                className="mt-3 font-medium text-primary"
+                dangerouslySetInnerHTML={markdownify(blog_section.title || "")}
+              />
+            </div>
+
+            <div className="flex flex-col lg:flex-row gap-8 items-start">
+              <div
+                data-aos="fade-right-sm"
+                data-aos-delay="250"
+                className="lg:flex-shrink-0"
+              >
+                <ImageFallback
+                  src="/images/about/Board/GustavoA.png"
+                  alt="Gustavo Marques Alberici - Founder"
+                  width={280}
+                  height={280}
+                  className="w-56 h-auto object-contain rounded-lg shadow-lg mx-auto lg:mx-0"
                 />
               </div>
               <p
                 data-aos="fade-up-sm"
                 data-aos-delay="300"
-                className="lg:col-8 text-lg text-primary md:indent-20 text-center lg:text-left leading-relaxed"
+                className="flex-1 text-xl md:text-2xl text-primary text-center lg:text-left leading-relaxed"
                 dangerouslySetInnerHTML={markdownify(
                   blog_section.description || ""
                 )}
               />
             </div>
 
-            <div className="row g-4 section-sm pb-0">
-              {posts
-                ?.filter((post) => post.frontmatter.featured)
-                .slice(0, blog_section.show_blog_count || 3)
-                .map((post, i) => (
-                  <BlogCard
-                    key={post.slug}
-                    index={i}
-                    post={post}
-                    customLink="/mentors"
-                    customLabel="Mentor"
-                  />
-                ))}
+            <div className="mt-12" data-aos="fade-up-sm" data-aos-delay="400">
+              <ImageFallback
+                src="/images/AboutBG.png"
+                alt="The Compass Story"
+                width={1200}
+                height={600}
+                className="w-full h-auto rounded-lg"
+              />
             </div>
           </div>
         </section>

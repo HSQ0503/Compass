@@ -1,7 +1,7 @@
 ---
 title: "Our Story"
 meta_title: "About"
-description: "Our Mission is to guide middle, high, and lower school students by connecting them with dedicated peers who share advice, recommendations, and personal insights gained from their own academic journeys and experiences."
+description: "Our Mission is to guide high, middle, and lower school students by connecting them with dedicated peers who share advice, recommendations, and personal insights gained from their own academic journeys and experiences."
 image: "/images/about/1.png"
 images_gallery:
   - "/images/about/1.png"
